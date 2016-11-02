@@ -1,0 +1,24 @@
+{
+  "name": "handlebars-helper-url",
+  "version": "1.0.0",
+  "description": "Handlebars helper that format urls depending on the environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "metalsmith",
+    "handlebars",
+    "bundles",
+    "templates"
+  ],
+  "author": "Antonio Hernandez <ahdiaz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/ahdiaz/handlebars-helper-url",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahdiaz/handlebars-helper-url"
+  }
+}
